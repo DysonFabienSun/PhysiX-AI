@@ -1,3 +1,3 @@
-# SJTU-AIIA Wiki Page
+# PhysiX-AI Wiki
 
-欢迎访问上海交通大学人工智能创新协会 Wiki 页面！
+Welcome to the PhysiX-AI community wiki for learning Physical AI. Content is under construction.
